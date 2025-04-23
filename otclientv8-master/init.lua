@@ -22,7 +22,7 @@ Servers = {
   Evoulinia = "evolunia.net:7171:1098",
   GarneraTest = "garnera-global.net:7171:1100",
   LocalTestServ = "127.0.0.1:7171:1098:110:30:93"  ]]
-  testserver = "127.0.0.1:7171:772"
+  testserver = "127.0.0.1:7171:860"
   
   
   
